@@ -1,0 +1,65 @@
+# Project-Specific 
+literature/*
+data/*
+build/* 
+bin/*
+results/*
+
+*.temp
+
+# Text files, notes and literature
+*.txt
+*.data
+*.notes
+*.pdf
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.sh
+
+# Data
+*.csv
+*.gz
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.dat
+*.log
+*.svm
+*.dat
+*.bin
+
+# Filesystems 
+.DS_Store
